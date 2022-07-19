@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../my-first-project"
+		},
+		{
+			"path": "../Location-Detector"
+		}
+	],
+	"settings": {}
+}
